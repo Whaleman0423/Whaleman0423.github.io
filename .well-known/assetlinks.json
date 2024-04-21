@@ -5,7 +5,7 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.example.museplace_webview_example",
+            "package_name": "io.cxcxc.cxcxc_ar_app",
             "sha256_cert_fingerprints": [
                 "CB:04:C3:9C:2B:01:44:D3:1B:50:F4:26:4A:76:92:EB:75:C3:7B:05:AE:13:6A:48:BC:A7:79:87:5C:89:1A:DC"
             ]
